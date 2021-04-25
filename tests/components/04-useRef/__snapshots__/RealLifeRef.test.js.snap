@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pruebas en <RealLifeRef /> debe mostrarse correctamente 1`] = `
+<Fragment>
+  <h1>
+    Real Life Ref
+  </h1>
+  <hr />
+  <br />
+  <button
+    className="btn btn-primary mt-5"
+    onClick={[Function]}
+  >
+    Show/Hide
+  </button>
+</Fragment>
+`;
